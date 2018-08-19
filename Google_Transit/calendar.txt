@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+180625-MULTI-Weekday-02,1,1,1,1,1,0,0,20180625,20180727
+180625-MULTI-Saturday-01,0,0,0,0,0,1,0,20180630,20180728
+180625-MULTI-Sunday-01,0,0,0,0,0,0,1,20180701,20180729
+180625-MULTI-Holiday1-03,1,1,1,1,1,1,1,20180702,20180702

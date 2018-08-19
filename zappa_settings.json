@@ -1,0 +1,10 @@
+{
+    "development": {
+        "app_function": "Main.app", 
+        "aws_region": "us-east-2", 
+        "profile_name": "default", 
+        "project_name": "transit-texter", 
+        "runtime": "python2.7", 
+        "s3_bucket": "zappa-transit-texter"
+    }
+}
