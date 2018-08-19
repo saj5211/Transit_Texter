@@ -24,7 +24,7 @@
 - Toronto Transit Commission [ttc]
 ##
 ##
-## APIs & Services Used:
+## API's & Services Used:
 ##
 ##
 - Twilio
