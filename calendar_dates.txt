@@ -1,0 +1,2 @@
+service_id,date,exception_type
+180625-MULTI-Weekday-02,20180702,2
