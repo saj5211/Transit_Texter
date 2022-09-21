@@ -61,7 +61,7 @@ pyOpenSSL==18.0.0
 pyreadline==2.1
 Pyrebase==3.0.27
 python-dateutil==2.6.1
-python-jwt==2.0.1
+python-jwt==3.3.4
 python-slugify==1.2.4
 pytz==2018.5
 PyYAML==3.12
